@@ -81,6 +81,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: SITE_URL,
   },
+  verification: {
+    google: "cDSMo1ZiV1hHg8Yfo8_Dw216KnIz6goMxgr4kKlZRCQ",
+  },
   category: "business directory",
 };
 
