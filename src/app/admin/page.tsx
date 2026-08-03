@@ -381,7 +381,7 @@ export default function AdminDashboardPage() {
           <img
             src="/logo.png"
             alt="Logo Thrive GenBI"
-            className="w-9 h-9 object-contain"
+            className="w-11 h-11 object-contain"
           />
           <div>
             <h1 className="text-sm font-display font-extrabold text-primary leading-tight">
@@ -412,7 +412,7 @@ export default function AdminDashboardPage() {
             <img
               src="/logo.png"
               alt="Logo Thrive GenBI"
-              className="w-10 h-10 object-contain drop-shadow-sm group-hover:scale-105 transition-transform"
+              className="w-12 h-12 object-contain drop-shadow-sm group-hover:scale-105 transition-transform"
             />
             <div>
               <h1 className="text-base font-display font-extrabold text-primary leading-tight">

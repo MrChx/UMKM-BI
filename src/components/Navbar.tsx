@@ -9,11 +9,11 @@ export default function Navbar() {
   return (
     <header className="bg-surface border-b border-outline-variant shadow-sm top-0 sticky z-50">
       <div className="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto h-20">
-        <Link href="/" className="flex items-center gap-3.5 group">
+        <Link href="/" className="flex items-center gap-3.5 group py-1">
           <img
             src="/logo.png"
             alt="Logo Thrive GenBI UBMG"
-            className="w-12 h-12 object-contain drop-shadow-md group-hover:scale-105 transition-transform"
+            className="h-14 md:h-16 w-auto object-contain drop-shadow-md group-hover:scale-105 transition-transform"
           />
           <span className="text-xl md:text-2xl font-display font-extrabold text-primary tracking-tight group-hover:text-primary/80 transition-colors">
             Isi Torang Gorontalo
